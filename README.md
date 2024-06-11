@@ -10,3 +10,11 @@
     </ul>
   </li>
 </ul>
+<h1> To setup this project </h1>
+<ul>
+  <li>Clone the repo</li>
+  <li>cd to the app directory</li>
+  <li>In terminal do npm install</li>
+  <li>To run use command => node index.js </li>
+  <li>Install <b> Postman</b> to send GET,POST,PATCH...etc requests  </li>
+</ul>
